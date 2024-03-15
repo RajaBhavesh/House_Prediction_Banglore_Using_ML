@@ -1,11 +1,15 @@
 # Bangalore House Price Prediction Web App
 
 This repository contains code and documentation for a web application that predicts house prices in Bangalore using machine learning. The application provides a user-friendly interface for users to input house features such as location, number of bedrooms, bathrooms, etc., and utilizes a machine learning model to predict the house price.
-![Screenshot (12)](https://github.com/RajaBhavesh/House_Prediction_Banglore_Using_ML/assets/115658728/d4b2de5a-8602-41d3-979d-1f9b70fa4329)
 
 ## Overview
 
 The project aims to assist individuals in Bangalore in estimating the prices of houses based on various features. It utilizes a machine learning model trained on a large dataset of Bangalore houses to make accurate predictions.
+
+![bhp](https://github.com/RajaBhavesh/House_Prediction_Banglore_Using_ML/assets/115658728/7034b0ae-f17f-44b8-86f8-b4e3b6d3353b)
+
+
+
 
 ## Features
 
